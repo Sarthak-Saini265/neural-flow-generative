@@ -2,7 +2,7 @@
 
 ## Summary
 
-Create 'Neural Flow' - a sophisticated generative art system that creates evolving, organic flow fields like watching thoughts form in a neural network.
+[Updated] A signle page web application. Create 'Neural Flow' - a sophisticated generative art system that creates evolving, organic flow fields like watching thoughts form in a neural network.
 
 🧠 CONCEPT:
 Autonomous agents (particles) flow through an invisible force field, leaving elegant trails that form mesmerizing patterns. The field constantly evolves using Perlin noise, creating organic, never-repeating formations. It's hypnotic, sophisticated, and beautiful - like watching consciousness emerge.
